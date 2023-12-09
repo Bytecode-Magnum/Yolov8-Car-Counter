@@ -1,0 +1,10 @@
+cvzone==1.6.1
+imageio==2.33.0
+opencv-python<=4.8.1.78
+pyyaml<=6.0.1
+scikit-image<=0.17.2
+ultralytics<=8.0.225
+#: GPU Accelator
+torch<=2.1.1+cu118
+torchaudio<=2.1.1+cu118
+torchvision<=0.16.1+cu118
