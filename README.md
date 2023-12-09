@@ -8,10 +8,11 @@ In addition to YOLOv8, the project incorporates the SORT (Simple Online and Real
 
 ## Prerequisites
 * Python 3.x
-* YOLOv8 repository cloned
+* YOLOv8 
 * PyTorch
 * CUDA (optional, for GPU acceleration)
 * OpenCV
+* Ultralytics
 * Other dependencies as specified in the requirements.txt file
 ## Screenshots
 
